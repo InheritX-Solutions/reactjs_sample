@@ -284,3 +284,16 @@ This architecture follows patterns used by top tech companies because:
 ## License
 
 MIT
+
+
+---
+
+## 👨‍💻 Author
+
+Built with ❤️ by a Bansi Borad
+
+---
+
+<div align="center">
+  <strong>⭐ Star this repository if you found it helpful!</strong>
+</div>
